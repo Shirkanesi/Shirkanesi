@@ -3,7 +3,7 @@ I'm Shirkanesi (also known as Julian)
 
 - 🔭 I'm currently studying Informatics at [KIT](https://cs.kit.edu/).
 
-- 🌱 I’m currently learning k8s and Kotlin
+<!--- 🌱 I’m currently learning k8s and Kotlin-->
 - 💬 Ask me about **anything**. However, I might not be able to help :)
 - 📫 How to reach me: shirkanesi@shirkanesi.com
 - 😄 Pronouns: he/him (call me what you want, I'll complain if I don't like it)
