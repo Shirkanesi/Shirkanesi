@@ -6,7 +6,7 @@ I'm Shirkanesi (also known as Julian)
 <!-- This comment splits the list! --> 
 - 🌱 I’m currently learning about low-level Java-Bytecode manipulation and Rust
 - 💬 Ask me about **anything**. However, I might not be able to help :)
-- 📫 How to reach me: shirkanesi@shirkanesi.com
+- 📫 How to reach me: shirkanesi@shirkanesi.com or via [Matrix](https://matrix.to/#/@shirkanesi:shirkanesi.com)
 - 😄 Pronouns: he/him (call me what you want, I'll complain if I don't like it)
 - ⚡ Fun fact: I've no clue what I am doing here...
 
